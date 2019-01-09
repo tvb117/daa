@@ -6,7 +6,7 @@ This document describes the technical specifications of the DAAS project with a 
     - [Goal](#goal)
     - [Brief introduction to DAAS](#bref-introduction-to-daas)
     - [Architecture](#architecture)
-        - [contracts](#contracts)
+        - [Contracts](#contracts)
         - [Functions](#functions)
     - [Concerns](#concerns)
         - [Upgradability and flexibility](#upgradability-and-flexibility)
